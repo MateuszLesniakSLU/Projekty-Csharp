@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDtUYONfAIBHLftlZB7D6lmYnYTBrSwPHJ+RjxPCRdqm+DsGs1HHDTUIaCWjqhB0Et3eUpMbk6tE5LqXbj19QQ==",
+  "success": true,
+  "projectFilePath": "C:\\lesniakcs\\.vs\\kalkulatorBMIv2SOLVE\\kalkulatorBMIv2\\kalkulatorBMIv2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OptiNav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

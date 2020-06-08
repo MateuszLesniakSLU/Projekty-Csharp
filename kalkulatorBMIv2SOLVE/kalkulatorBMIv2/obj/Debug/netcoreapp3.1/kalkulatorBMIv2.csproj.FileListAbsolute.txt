@@ -1,0 +1,13 @@
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.csprojAssemblyReference.cache
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.AssemblyInfoInputs.cache
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.AssemblyInfo.cs
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.csproj.CoreCompileInputs.cache
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.exe
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.deps.json
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.runtimeconfig.json
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.runtimeconfig.dev.json
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.dll
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\bin\Debug\netcoreapp3.1\kalkulatorBMIv2.pdb
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.dll
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.pdb
+C:\lesniakcs\.vs\kalkulatorBMIv2SOLVE\kalkulatorBMIv2\obj\Debug\netcoreapp3.1\kalkulatorBMIv2.genruntimeconfig.cache
